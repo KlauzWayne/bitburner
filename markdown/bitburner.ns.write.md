@@ -28,7 +28,7 @@ Promise&lt;void&gt;
 
 RAM cost: 0 GB
 
-This function can be used to write data to a text file (.txt).
+This function can be used to write data to a text file (.txt, .js, .script).
 
 This function will write data to that text file. If the specified text file does not exist, then it will be created. The third argument mode, defines how the data will be written to the text file. If \*mode is set to “w”, then the data is written in “write” mode which means that it will overwrite all existing data on the text file. If mode is set to any other value then the data will be written in “append” mode which means that the data will be added at the end of the text file.
 
